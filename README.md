@@ -7,10 +7,12 @@
 - Job Security: How to make yourself an asset at OwnLocal
 - Professional Development: Making yourself an asset in the future
 - Get more done, faster!
+![You'll be like this before you know it!](https://github.com/ahrjarrett/origami_meeting/blob/master/gifs/cat.mp4)
 
 ### Sections
 
 Or, how to be fast without setting your hair on fire.
+![Origami!](https://github.com/ahrjarrett/origami_meeting/blob/master/gifs/hair.mp4)
 
 1. Setting up your workflow environment
 2. How to be fast at browsers (Philosophy: Keep your fingers on the home row!)
@@ -33,7 +35,7 @@ Or, how to be fast without setting your hair on fire.
 ### Questions for Lauren:
 
 - I want to pick your brain!
-- What's worked in the past? Where can I find funny gifs to make this more interesting for contractors?
+- What's worked in the past? Where can I find funny gifs to make this more interesting for contractors (or how can I make this as fun and painless as possible)?
 - If I champion this, who will be my sponsor?
 - Are there existing training materials I can get my hands on, to keep the messaging / branding consistent company-wide?
 - How could you see something like this developing? What might this look like in 3 months? 6? 12?
