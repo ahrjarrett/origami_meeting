@@ -10,6 +10,8 @@
 
 ### Sections
 
+Or, how to be fast without setting your hair on fire.
+
 1. Setting up your workflow environment
 2. How to be fast at browsers (Philosophy: Keep your fingers on the home row!)
 3. How to quickly source good business info
@@ -23,10 +25,10 @@
 
 ### Post-training:
 
-**Look at metrics:**
+*Looking at the metrics:*
 
 - Quality of offers? Biz quality is easy to quantify, but how do we quantify Origami ad text?
-- # of items fulfilled / hr before, compared to after (need to pull all this data prior to)
+- Number of items fulfilled per hour before compared to after (need to pull all this data prior to)
 
 ### Questions for Lauren:
 
