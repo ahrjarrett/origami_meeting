@@ -7,12 +7,10 @@
 - Job Security: How to make yourself an asset at OwnLocal
 - Professional Development: Making yourself an asset in the future
 - Get more done, faster!
-![You'll be like this before you know it!](https://github.com/ahrjarrett/origami_meeting/blob/master/gifs/cat.mp4)
 
 ### Sections
 
 Or, how to be fast without setting your hair on fire.
-![Origami!](https://github.com/ahrjarrett/origami_meeting/blob/master/gifs/hair.mp4)
 
 1. Setting up your workflow environment
 2. How to be fast at browsers (Philosophy: Keep your fingers on the home row!)
