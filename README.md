@@ -22,6 +22,7 @@ Or, how to be fast without setting your hair on fire.
 
 - [Chrome Shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
 - [Insert list of Origami-appropriate shortcuts here](https://ownlocal.com)
+- [Groupon’s Copywriting Guide: Marketing Clichés to Avoid](http://www.businessinsider.com/groupon-secret-sauce-2010-12?op=1/#aditional-marketing-clichs-and-crutches-to-avoid-4)
 
 ### Post-training:
 
