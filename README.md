@@ -4,7 +4,7 @@
 
 ### Lay out incentives for contractors
 
-- Job Security: How to make yourself an asset at OwnLocal
+- Job Security: How to make yourself an asset at OL
 - Professional Development: Making yourself an asset in the future
 - Get more done, faster!
 
@@ -40,10 +40,11 @@ Or, how to be fast without setting your hair on fire.
 ### Questions for Lauren:
 
 - I want to pick your brain!
-- What's worked in the past? Where can I find funny gifs to make this more interesting for contractors (or how can I make this as fun and painless as possible)?
+- How can I make this more interesting for people to sit through?
 - If I champion this, who will be my sponsor?
 - Are there existing training materials I can get my hands on, to keep the messaging / branding consistent company-wide?
 - How could you see something like this developing? What might this look like in 3 months? 6? 12?
+- Where can I get the OL presentation template to keep branding consistent?
 
 
 
