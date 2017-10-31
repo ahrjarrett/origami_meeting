@@ -31,6 +31,12 @@ Or, how to be fast without setting your hair on fire.
 - Quality of offers? Biz quality is easy to quantify, but how do we quantify Origami ad text?
 - Number of items fulfilled per hour before compared to after (need to pull all this data prior to)
 
+### TODO:
+
+- [Powerpoint](https://docs.google.com/presentation/d/1xdTmjJdpPIKQZ0j13fZYaKFPg7sDih1hFHuO1o7uiRg/)
+- Extract relevant portions of Groupon copy doc
+- Make list of browser shortcuts and source PC equivalents (Chromebook?)
+
 ### Questions for Lauren:
 
 - I want to pick your brain!
@@ -38,4 +44,6 @@ Or, how to be fast without setting your hair on fire.
 - If I champion this, who will be my sponsor?
 - Are there existing training materials I can get my hands on, to keep the messaging / branding consistent company-wide?
 - How could you see something like this developing? What might this look like in 3 months? 6? 12?
+
+
 
