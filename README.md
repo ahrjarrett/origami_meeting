@@ -34,7 +34,7 @@ Or, how to be fast without setting your hair on fire.
 ### TODO:
 
 - [Powerpoint](https://docs.google.com/presentation/d/1xdTmjJdpPIKQZ0j13fZYaKFPg7sDih1hFHuO1o7uiRg/)
-- Extract relevant portions of Groupon copy doc
+- ~~Extract relevant portions of Groupon copy doc~~
 - Make list of browser shortcuts and source PC equivalents (Chromebook?)
 
 ### Questions for Lauren:
