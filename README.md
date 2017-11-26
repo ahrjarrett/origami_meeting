@@ -33,7 +33,8 @@ Or, how to be fast without setting your hair on fire.
 
 ### TODO:
 
-- [Powerpoint](https://docs.google.com/presentation/d/1xdTmjJdpPIKQZ0j13fZYaKFPg7sDih1hFHuO1o7uiRg/)
+- ~~[Powerpoint](https://docs.google.com/presentation/d/1xdTmjJdpPIKQZ0j13fZYaKFPg7sDih1hFHuO1o7uiRg/)~~
+- Revise Powerpoint
 - ~~Extract relevant portions of Groupon copy doc~~
 - Make list of browser shortcuts and source PC equivalents (Chromebook?)
 
@@ -45,6 +46,8 @@ Or, how to be fast without setting your hair on fire.
 - Are there existing training materials I can get my hands on, to keep the messaging / branding consistent company-wide?
 - How could you see something like this developing? What might this look like in 3 months? 6? 12?
 - Where can I get the OL presentation template to keep branding consistent?
+
+
 
 
 
